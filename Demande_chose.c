@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Demande l'age et l'argent sur le terminal et répond une des deux issues selon la réponse
+
 int main(int argc, char const *argv[])
 {
 	int age,argent; /*on crée les variables*/
